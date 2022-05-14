@@ -35,11 +35,11 @@ The motion detector takes around 20 seconds to calibrate when first turning on t
 
 ## Component Visualization
 
-![](RackMultipart20220514-1-wyrdph_html_9993e1613a80a18f.jpg)
+![Where different components attach to each atmega chip pin](./images/atmega.jpg)
 
 ## Task Diagram
 
-![](RackMultipart20220514-1-wyrdph_html_c3338c645ea51e26.png)
+![Task diagram for the state machine logic of the climate control system](./images/task diagram.png)
 
 ## Technologies Learned
 
