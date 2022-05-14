@@ -39,7 +39,7 @@ The motion detector takes around 20 seconds to calibrate when first turning on t
 
 ## Task Diagram
 
-![Task diagram for the state machine logic of the climate control system](./images/task diagram.png)
+![Task diagram for the state machine logic of the climate control system](./images/task_diagram.png)
 
 ## Technologies Learned
 
